@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/mnt/d/solidity-bootcamp/bnb-project/contracts/Counter.sol": {
+      "lastModificationDate": 1683212149408,
+      "contentHash": "74a4a01d02a068936c665986b016babc",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.2",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    },
+    "/mnt/d/solidity-bootcamp/bnb-project/contracts/Lock.sol": {
+      "lastModificationDate": 1683212132782,
+      "contentHash": "5478d01b845b0c5446101ac61064af94",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.2",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
